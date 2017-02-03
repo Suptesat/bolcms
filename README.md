@@ -1,6 +1,5 @@
 # bolcms
 BolCmS Mobile Content Management System
-BolCmS ver 3.5.0
 Автор -Suptesat
 Контакты:
 mk.kikmret@mail.ru
